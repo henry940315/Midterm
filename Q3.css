@@ -1,0 +1,32 @@
+@media screen and (min-width:100px) {
+    .Header{
+        color:blue;
+        font-size: 40px;
+
+    }
+    .Subheader{
+        color: red;
+        font-size: 25px;
+    }
+    .Text{
+        color: green;
+        font-size: 20px;
+    }
+    
+}
+@media screen and (min-width:1000px) {
+    .Header{
+        color:red;
+        font-size: 30px;
+
+    }
+    .Subheader{
+        color: green;
+        font-size: 20px;
+    }
+    .Text{
+        color: blue;
+        font-size: 15px;
+    }
+    
+}

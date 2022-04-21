@@ -1,0 +1,12 @@
+.Header{
+    color: blue;
+    font-size: 40px;
+}
+.Subheader{
+    color:red;
+    font-size: 25px;
+}
+.Text{
+    color: green;
+    font-size: 20px;
+}
